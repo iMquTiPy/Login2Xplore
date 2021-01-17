@@ -1,0 +1,21 @@
+{
+    "token": "90937169|-31948799944675492|90933027",
+    "cmd": "PUT",
+    "dbName": "Employee",
+    "rel": "index",
+    "colsAutoIndex": true,
+    "templateStr": {
+        "name": "Sulbha Mishra"
+    },
+    "jsonStr": {
+        "name": "Sulbha Mishra",
+        "email": "sulbhamishra@gmail.com",
+        "password": "323",
+        "passwrd": "323"
+         "name": "khushi",
+        "email": "khushi@gmail.com",
+        "password": "3",
+        "passwrd": "654"
+
+    }
+}
