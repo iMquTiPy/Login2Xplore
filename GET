@@ -1,0 +1,12 @@
+{
+    "token": "90937169|-31948799944675492|90933027",
+    "cmd": "GET",
+    "dbName": "Employee",
+    "rel": "index",
+   
+    "jsonStr": {
+        "name": "khushi",
+       
+    }
+}
+     
